@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "codingchallenges"
+version = "0.1.0"
+description = "A handful of coding challenges."
+authors = ["Michael Dreisinger <mike.dreisinger95@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.16"
+parameterized = "^0.9.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.3.1"
+pylint = "^2.17.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
