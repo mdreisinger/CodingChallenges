@@ -29,7 +29,7 @@ NOTE:
     - I'm very engaged during meeting such as sprint planning, backlog refinement, retrospectives, and design/brainstorming sessions. Not in a way to show off my knowledge, but to ask the questions that other people are also probably thinking. The worst thing in meetings is a distracted audience/team that's not actively contributing to the goal of the meeting, and the best thing is a whole team that's actively engaged.
 
 # Pre-Interview Questions:
-Instead of providing an explanation for each question, I have created a quick video going over my solutions and demonstrating it working: TODO: Link to YouTube.
+Instead of providing an explanation for each question, I have created a quick video going over my solutions and demonstrating it working: https://youtu.be/2ep2VCzjgtE
 
 ## Question 1
 An anagram is a word, phrase, or name formed by rearranging the letters of another. 
