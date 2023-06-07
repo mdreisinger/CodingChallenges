@@ -39,7 +39,6 @@ Write an example program that determines if a pair of words are Anagrams.
 ## Question 2
 2. Write a Python function that takes in a list of integers (0 through 10) and returns the sum of all the even numbers in the list.
 
-
 ## Question 4 (I chose question 4 over question 3 since I immediately saw a good solution.)
 4. To identify duplicate images, one method is to calculate a hash value for each image and compare them to one another. If two files have the same hash value, they are duplicates.
 Given the path to a hypothetical folder on a hard drive which contains a very large dataset of images, calculate the sha256 has for each, and create a dictionary with a key of the hash string and a value which is a list of file paths for images with that hash.
